@@ -5,9 +5,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanidharan01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dharanidharan01&icon=1&color=1)](https://visitcount.itsvg.in)
-  <a href="https://www.buymeacoffee.com/dharanidhad
-"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+[![](https://visitcount.itsvg.in/api?id=Dharanidharan01&icon=1&color=1)](https://visitcount.itsvg.in) <br>
+  <a href="https://www.buymeacoffee.com/dharanidhad">
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 
 
 
